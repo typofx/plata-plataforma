@@ -3,4 +3,5 @@
 [X] https://www.defined.fi/matic/0x5d64b0ec81a0648f52be7a50267bf8d1d0ffb161?quoteToken=token1&cache=53afe
 [X] https://messari.io/
 [ ] https://platform.arkhamintelligence.com/explorer/token/polygon/0xC298812164BD558268f51cc6E3B8b5daAf0b6341
+[ ] https://coinsbit.io/listing email sent 2405 for estimative
 
