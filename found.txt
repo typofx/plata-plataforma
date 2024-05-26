@@ -2,7 +2,7 @@
 [X] https://www.codeslaw.app/contracts/polygon/0xc298812164bd558268f51cc6e3b8b5daaf0b6341
 [X] https://www.defined.fi/matic/0x5d64b0ec81a0648f52be7a50267bf8d1d0ffb161?quoteToken=token1&cache=53afe
 [X] https://messari.io/
-[ ] https://platform.arkhamintelligence.com/explorer/token/polygon/0xC298812164BD558268f51cc6E3B8b5daAf0b6341
+[X] https://platform.arkhamintelligence.com/explorer/token/polygon/0xC298812164BD558268f51cc6E3B8b5daAf0b6341
 [ ] https://coinsbit.io/listing email sent 2405 for estimative
 [X] https://www.coinscan.com/tokens/matic/0x0d379bc8418ae1083b9fc2ad29479af4ecd957dd
 
