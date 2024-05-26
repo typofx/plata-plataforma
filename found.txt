@@ -4,5 +4,5 @@
 [X] https://messari.io/
 [ ] https://platform.arkhamintelligence.com/explorer/token/polygon/0xC298812164BD558268f51cc6E3B8b5daAf0b6341
 [ ] https://coinsbit.io/listing email sent 2405 for estimative
-[ ] https://www.coinscan.com/tokens/matic/0x0d379bc8418ae1083b9fc2ad29479af4ecd957dd
+[X] https://www.coinscan.com/tokens/matic/0x0d379bc8418ae1083b9fc2ad29479af4ecd957dd
 
