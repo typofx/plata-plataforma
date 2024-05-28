@@ -6,3 +6,11 @@
 [ ] https://coinsbit.io/listing email sent 2405 for estimative
 [X] https://www.coinscan.com/tokens/matic/0x0d379bc8418ae1083b9fc2ad29479af4ecd957dd
 [ ] https://defillama.com/
+[ ] CoinLore
+[ ] Coincost
+[ ] DigitalCoinPrice
+[ ] Coindataflow
+[ ] Ledger
+[ ] 
+[ ] 
+[ ] 
