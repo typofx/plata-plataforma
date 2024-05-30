@@ -11,6 +11,3 @@
 [X] DigitalCoinPrice
 [X] Coindataflow
 [ ] Ledger
-[ ] 
-[ ] 
-[ ] 
