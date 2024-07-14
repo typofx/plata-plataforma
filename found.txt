@@ -12,4 +12,5 @@
 [X] Coindataflow
 [ ] Ledger
 [X] https://bitscreener.com/
-https://blofin.com/price/coins/plata-token
+[ ] https://blofin.com/price/coins/plata-token
+[ ] https://www.coinember.app/crypto/plata-token
