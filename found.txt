@@ -18,3 +18,4 @@
 16/07/24 [ ] https://www.blockscout.com/chains-and-projects
 19/07/24 [ ] https://goonus.io/en/onus-listing/
 25/07/24 [ ] https://dex.guru/token/polygon/0xc298812164bd558268f51cc6e3b8b5daaf0b6341
+28/07/24 [ ] https://app.kattana.io/en/token/POLYGON/0xC298812164BD558268f51cc6E3B8b5daAf0b6341
